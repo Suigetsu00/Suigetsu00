@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suigetsu00.
-- 👀 I’m interested in Python, Java, Game and Software Developing.
+- 👀 I’m interested in Python, Java, C++, Game and Software Developing.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on anyone who wants!!
 - 📫 How to reach me, just e-mail on osinsaojerome92@gmail.com
